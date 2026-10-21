@@ -1,0 +1,20 @@
+# Guia de Contribuição - DiProjOrcestra
+
+Obrigado por contribuir! Para manter a organização de todos os projetos do grupo, siga as diretrizes abaixo.
+
+## 🔀 Fluxo de Branches
+- `main`: Código em produção/estável.
+- `develop`: Branch para integração de funcionalidades.
+- `feature/nome-da-feature`: Novas funcionalidades.
+- `fix/nome-do-bug`: Correções de bugs.
+
+## 💬 Mensagens de Commit (Conventional Commits)
+- `feat:` Nova funcionalidade.
+- `fix:` Correção de bug.
+- `docs:` Alterações na documentação.
+- `style:` Formatação ou ajustes visuais sem alterar regra de negócio.
+
+## 📩 Processo de Pull Request
+1. Abra o PR apontando para a branch `develop`.
+2. Preencha a descrição utilizando o template padrão.
+3. Solicite a revisão de pelo menos 1 membro da equipe antes de realizar o merge.
