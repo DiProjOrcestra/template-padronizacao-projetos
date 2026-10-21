@@ -1,0 +1,22 @@
+# [Nome do Projeto]
+
+Breve descrição do projeto e do seu propósito no ecossistema da **DiProjOrcestra**.
+
+---
+
+## 🚀 Como Executar o Projeto
+
+Instruções para rodar o projeto localmente:
+
+```bash
+# 1. Clonar o repositório
+git clone [https://github.com/DiProjOrcestra/NOME-DO-REPOSITORIO.git](https://github.com/DiProjOrcestra/NOME-DO-REPOSITORIO.git)
+
+# 2. Entrar no diretório
+cd NOME-DO-REPOSITORIO
+
+# 3. Instalar dependências (exemplo)
+npm install
+
+# 4. Executar
+npm start
